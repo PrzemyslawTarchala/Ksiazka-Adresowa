@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678134301 source:c:\kurspp\upgradeksiazkaadresowa\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<algorithm>
+	<cstdio>
+
